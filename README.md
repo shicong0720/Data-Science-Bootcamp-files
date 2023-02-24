@@ -1,3 +1,3 @@
-# Data-Science-Bootcamp-files
+Exercise files from Laioffer Data Science Bootcamp
 
 
